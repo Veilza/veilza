@@ -1,16 +1,18 @@
-### Hi there 👋
+### Veilza Kinsemi
 
-<!--
-**Veilza/veilza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a catgirl who likes to work on things that people might find fun or useful.
 
-Here are some ideas to get you started:
+My current big projects that I'm super proud of are:
+* Dekatreis: A homebrew tabletop setting for Pathfinder 2 system.
+* CofD Utilities: A module for the Chronicles of Darkness system that adds a group beats manager and a scene tracker for the storyteller.
+* World of Darkness 5e: A FoundryVTT system for the 5th edition gamelines of World of Darkness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly use a mixture of basic frontend and Javascript to make the above repositories, but I'm also proficient in:
+* Python (and the Django framework)
+* Ruby (and the Ruby on Rails framework)
+* C#
+* C++
+* PHP
+* MySQL
+* MongoDB
+* GDScript
