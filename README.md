@@ -17,4 +17,5 @@ I mostly use a mixture of basic frontend knowledge and Javascript to make the ab
 * MongoDB
 * GDScript
 
+### Supporting me
 If you like anything I do, I'd really appreciate if you'd [buy me a coffee](https://ko-fi.com/veilza)! I'll always keep on working on things, though, so it's never necessary.
